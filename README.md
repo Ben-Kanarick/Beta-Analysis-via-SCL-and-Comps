@@ -1,6 +1,11 @@
 # Beta-Analysis-via-SCL-and-Comps
-For this assignment, each student will write a Python program (or Excel spreadsheet) that will estimate a public company's equity beta using i) historical statistics via the security characteristic line (SCL) and ii) comparable company analysis.  This is an important function that is often done at investment banks, asset management firms, consulting firms, and valuation firms.
+For this assignment, each student will write a Python program (or Excel spreadsheet) that will estimate a public company's equity beta using 
+
+i) historical statistics via the security characteristic line (SCL) and 
+
+ii) comparable company analysis.  This is an important function that is often done at investment banks, asset management firms, consulting firms, and valuation firms.
 You may choose any publicly traded stock that has multiples lines of business (alternatively referred to as divisions, business segments, etc.)  Do not analyze a company that is in a single line of business or otherwise known as a "pure play."  Make sure that you coordinate with the other teams to ensure that you are not analyzing a stock that another team is analyzing.
+
 Deliverables:
 1.  Provide an estimate of the company's beta using an SCL analysis.  In your narrative writeup, make sure to describe your approach, any assumptions used (e.g., time frame, level of granularity, risk free rate used,  regression assumptions, etc.), and the confidence interval of the beta.  When you report the CI, make sure you provide the appropriate description (e.g., the level of confidence), how it is computed, and what the CI actually means.
 2.  Provide an estimate of the company's beta using comparables analysis.  
