@@ -18,9 +18,8 @@ In your narrative writeup, once again make sure to clearly describe your step-by
   •	what other refinements did you make (if any), such as excluding any comps that otherwise fit the criteria (and why?)
   
   •	how did you determine which capital structure assumption to make (did you examine the historical financials or other stated policies of the comps to see which assumption was more appropriate)? 
- 
-    o	for this one, you may choose to limit the choices to just two:  constant debt or constant D/E ratio
-    o	if the debt was sub-investment grade, at what level did you set the debt beta?  why?  make persuasive, logical arguments--there isn't necessarily "one" right answer here.
+	(for this one, you may choose to limit the choices to just two:  constant debt or constant D/E ratio
+   if the debt was sub-investment grade, at what level did you set the debt beta?  why?  make persuasive, logical arguments--there isn't necessarily "one" right answer here.)
     
   •	 did you make other adjustments (e.g., cash adjusted beta?)
   
